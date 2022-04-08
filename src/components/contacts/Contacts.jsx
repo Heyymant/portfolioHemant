@@ -30,7 +30,7 @@ export default function Contacts() {
           <img src="assets/linkedin.png"  className ="linkedin" />
         </a>
         <a href="https://www.linkedin.com/in/hemant-kumar-174157193/">
-          <img src="assets/linkedin.png"  className ="linkedin" />
+          <img src="assets/linkedin.png"  className ="resume" />
         </a>
       </div>
     </div>
